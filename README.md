@@ -23,10 +23,10 @@ Passionate | Creative | Data Analyst
 ### 🤝 Looking Forward To...
 
 - 💡 Exploring new opportunities.
-- 🌱 Learning and collaborating with other developers.
+- 🌱 Learning and collaborating with other Data analysts.
 - 🚀 Building awesome projects.
 
-Feel free to reach out if you want to chat about technology, development, or if you're looking for someone to collaborate on a project!
+Feel free to reach out if you want to chat about technology, Data Science, or if you're looking for someone to collaborate on a project!
 
 Happy coding! 👨‍💻
 
