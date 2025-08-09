@@ -3,22 +3,16 @@
 Passionate | Creative | Data Analyst
 
 👨‍💻 About Me
-- 🔭 I’m currently working on Olympics dataset to analyze and gget interesting insights from Dataset.
-- 🌱 I’m currently learning Snowflake/AWS 
+- 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with learning Snowflake.
+- 🤔 I’m looking for help with learning Azure and Power BI.
 - 💬 Ask me about Tableau/SQL .
-- 📫 How to reach me: yuvraj.chauhan
-- 😄 Pronouns: He/Him
-
+ 
 ### Tech Stack
 
-- 💻 **Languages:** SQL/Python
+- 💻 **Languages:** SQL/Python/R
 - 🛢️ **Databases:** Oracle/MySQL
 
-### Let's Connect
-
-[![LinkedIn](https://www.linkedin.com/in/yuvraj97-chauhan)]
 
 ### 🤝 Looking Forward To...
 
